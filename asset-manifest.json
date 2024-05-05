@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Table-Assignent/static/css/main.90403f2c.css",
-    "main.js": "/React-Table-Assignent/static/js/main.ca24bccb.js",
+    "main.js": "/React-Table-Assignent/static/js/main.694c8ab8.js",
     "index.html": "/React-Table-Assignent/index.html",
     "main.90403f2c.css.map": "/React-Table-Assignent/static/css/main.90403f2c.css.map",
-    "main.ca24bccb.js.map": "/React-Table-Assignent/static/js/main.ca24bccb.js.map"
+    "main.694c8ab8.js.map": "/React-Table-Assignent/static/js/main.694c8ab8.js.map"
   },
   "entrypoints": [
     "static/css/main.90403f2c.css",
-    "static/js/main.ca24bccb.js"
+    "static/js/main.694c8ab8.js"
   ]
 }
